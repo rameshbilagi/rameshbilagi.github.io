@@ -531,10 +531,7 @@ padding: .8em;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
-
-
-  position: relative;
-  overflow: hidden;
+  position: relative;  
 }
 .meter > span  > span{
   margin-left: 4px;
