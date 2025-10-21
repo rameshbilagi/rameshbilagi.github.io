@@ -517,7 +517,7 @@ padding: .8em;
 
 /* Meters */
 .meter { 
-  height: 24px;  /* Can be anything */
+  height: auto;  /* Can be anything */
   position: relative;
   border: 1px solid #f1f1f1;
   -moz-border-radius: 4px;
